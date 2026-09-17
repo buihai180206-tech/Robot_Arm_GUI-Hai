@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|d:\\du lieu o c\\hust\\windowsformschorobotcuag8 - copyforpython - copy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\classifiermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|solutionrelative:classifiermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\productionreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|solutionrelative:productionreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\visionprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|solutionrelative:visionprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\hardwaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|solutionrelative:hardwaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\pythonbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|solutionrelative:pythonbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\esp32streamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1A1E2C-7E72-46EC-9FF9-8D5015467716}|WindowsFormschoRobotcuaG8.csproj|solutionrelative:esp32streamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PythonBridge.cs",
+              "DocumentMoniker": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\PythonBridge.cs",
+              "RelativeDocumentMoniker": "PythonBridge.cs",
+              "ToolTip": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\PythonBridge.cs",
+              "RelativeToolTip": "PythonBridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:56:57.94Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ESP32Streamer.cs",
+              "DocumentMoniker": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\ESP32Streamer.cs",
+              "RelativeDocumentMoniker": "ESP32Streamer.cs",
+              "ToolTip": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\ESP32Streamer.cs",
+              "RelativeToolTip": "ESP32Streamer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:56:57.933Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAgDAAAAAAAAAAAqwBwDAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:56:57.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HardwareManager.cs",
+              "DocumentMoniker": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\HardwareManager.cs",
+              "RelativeDocumentMoniker": "HardwareManager.cs",
+              "ToolTip": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\HardwareManager.cs",
+              "RelativeToolTip": "HardwareManager.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA9wBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:56:57.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisionProcessor.cs",
+              "DocumentMoniker": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\VisionProcessor.cs",
+              "RelativeDocumentMoniker": "VisionProcessor.cs",
+              "ToolTip": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\VisionProcessor.cs",
+              "RelativeToolTip": "VisionProcessor.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:56:57.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductionReport.cs",
+              "DocumentMoniker": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\ProductionReport.cs",
+              "RelativeDocumentMoniker": "ProductionReport.cs",
+              "ToolTip": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\ProductionReport.cs",
+              "RelativeToolTip": "ProductionReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:56:57.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassifierManager.cs",
+              "DocumentMoniker": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\ClassifierManager.cs",
+              "RelativeDocumentMoniker": "ClassifierManager.cs",
+              "ToolTip": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\ClassifierManager.cs",
+              "RelativeToolTip": "ClassifierManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:56:57.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\du lieu o C\\HUST\\WindowsFormschoRobotcuaG8 - CopyforPython - Copy\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:56:57.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
